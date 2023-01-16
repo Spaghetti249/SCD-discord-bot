@@ -1,0 +1,15 @@
+{
+  "name": "scd-discord-bot",
+  "version": "1.0.0",
+  "description": "ScD discord bot doing all the stuff",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Spaghetti",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "underscore": "^1.13.6"
+  }
+}
